@@ -29,5 +29,5 @@ flutter run
 ## Links
 
 * [Website](https://afgprogrammer.com)
-* [Twitter](https://twitter.com/FaunleTolu)
+* [Twitter](https://twitter.com/FakunleTolu)
 * [Instagram](https://instagram.com/tolucodes)
