@@ -67,7 +67,7 @@ class LoginSscreen extends StatelessWidget {
                         boxShadow: const [
                           BoxShadow(
                             color: Color.fromRGBO(196, 135, 198, .3),
-                            blurRadius: 20,
+                            blurRadius: 18,
                             offset: Offset(0, 10),
                           )
                         ]),
